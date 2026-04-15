@@ -2,7 +2,8 @@
 	"version":"0.0.0",
 	"patch":null,
 	"server_status":"online"
-	"dir_list":[],
-	"update_path":[]
+	"update_path":[],
+	"dir_list":[]
+	
 }
 
