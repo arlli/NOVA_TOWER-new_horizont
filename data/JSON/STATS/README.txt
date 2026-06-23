@@ -1,0 +1,1 @@
+Contiene las bases de datos tanto como unidades aliadas y enemigas

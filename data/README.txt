@@ -1,0 +1,1 @@
+contiene los archivos tipo json de el juego bases de datos y demas cosas
