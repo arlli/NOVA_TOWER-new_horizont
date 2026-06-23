@@ -1,7 +1,7 @@
 {
-	"version":"0.0.0",
+	"version":"1.0.0",
 	"patch":null,
-	"server_status":"offline",
+	"server_status":true,
 	"update_path":[],
 	"dir_list":[]
 	
